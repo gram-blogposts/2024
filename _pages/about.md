@@ -46,7 +46,7 @@ _We recommend using Safari for accurately rendering MathJax formulas on Google C
 ### This is just the beginning!
 **Do you feel like writting a blogpost or a tutorial that is linked with geometry?** We would love to host you! 
 
-Check our [instructions](/instructions/) to submit your blogpost as a pull request. You can also write a [colab](https://colab.research.google.com/) notebook. Don't forget to ping our GRaM co-organiser: alison.pouplin &#91;&#97;&#116;&#93; aalto &#91;&#100;&#111;&#116;&#93; fi :cherry_blossom:
+Check our [instructions](/instructions/) to submit your blogpost as a pull request. You can also write a [colab](https://colab.research.google.com/) notebook. Don't forget to ping our GRaM co-organiser: alison.pouplin &#91;&#97;&#116;&#93; gmail &#91;&#100;&#111;&#116;&#93; com :cherry_blossom:
 
 
 
