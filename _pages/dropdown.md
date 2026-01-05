@@ -1,16 +1,14 @@
-<!-- ---
+---
 layout: page
-title: submenus
+title: past iterations
 nav: true
-nav_order: 8
+nav_order: 99
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: <strong>2024</strong>
+    permalink: https://gram-blogposts.github.io/2024
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: 2026
+    permalink: https://gram-blogposts.github.io/2026
   - title: divider
-  - title: blog
-    permalink: /blog/
---- -->
+---
