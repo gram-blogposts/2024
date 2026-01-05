@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gram-blogposts.github.io/sitemap.xml
+Sitemap: https://gram-blogposts.github.io/2024/sitemap.xml
