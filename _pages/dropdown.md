@@ -6,7 +6,7 @@ nav_order: 99
 dropdown: true
 children:
   - title: <strong>2024</strong>
-    permalink: https://gram-blogposts.github.io/2024
+    permalink: https://gram-blogposts.github.io/2024/
   - title: divider
   - title: 2026
     permalink: https://gram-blogposts.github.io/2026
